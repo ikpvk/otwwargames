@@ -1,0 +1,18 @@
+ssh bandit.labs.overthewire.org -p 2220
+bandit0 bandit0
+cat readme
+
+
+password : ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+bandit1
+
+
+cat ./-
+263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+bandit2
+
+cat "spaces in this filename"
+MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+
+
+
